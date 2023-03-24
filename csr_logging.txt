@@ -1,5 +1,5 @@
 !
-logging buffered 40960
+logging buffered 4096
 logging host 10.93.141.37 transport udp port 8514
 logging source-interface Loopback1
 no logging host 10.93.141.1 transport udp port 8514
